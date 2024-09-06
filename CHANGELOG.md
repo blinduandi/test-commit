@@ -442,3 +442,5 @@
 - Set up initial Go backend API skeleton.
 
 - Initialized Firebase project for authentication.
+
+- Created basic layout for main page.
