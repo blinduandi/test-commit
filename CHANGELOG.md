@@ -444,3 +444,5 @@
 - Initialized Firebase project for authentication.
 
 - Created basic layout for main page.
+
+- Designed initial database schema for movies, genres, and users.
