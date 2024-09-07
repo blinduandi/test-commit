@@ -50,3 +50,5 @@
 - Created basic layout for main page.
 
 - Designed initial database schema for movies, genres, and users.
+
+- Integrated Firebase with backend for user authentication.
