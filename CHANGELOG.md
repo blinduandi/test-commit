@@ -316,3 +316,5 @@
 - Designed initial database schema for movies, genres, and users.
 
 - Integrated Firebase with backend for user authentication.
+
+- Basic error handling implemented for authentication.
