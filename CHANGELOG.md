@@ -28,3 +28,5 @@
 - Initialized Firebase project for authentication.
 
 - Created basic layout for main page.
+
+- Developed movie recommendation algorithm (initial version).
