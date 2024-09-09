@@ -186,3 +186,5 @@
 - Integrated Firebase with backend for user authentication.
 
 - Basic error handling implemented for authentication.
+
+- Developed movie recommendation algorithm (initial version).
