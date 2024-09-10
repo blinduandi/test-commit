@@ -56,3 +56,5 @@
 - Basic error handling implemented for authentication.
 
 - Developed movie recommendation algorithm (initial version).
+
+- Implemented swipe interaction for recommendations.
