@@ -586,3 +586,5 @@
 - Developed movie recommendation algorithm (initial version).
 
 - Implemented swipe interaction for recommendations.
+
+- Added trending movies API endpoint in Go backend.
