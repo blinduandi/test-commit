@@ -62,3 +62,5 @@
 - Added trending movies API endpoint in Go backend.
 
 - Connected frontend with backend API for recommendations.
+
+- Tested and debugged swiping functionality on Android.
