@@ -324,3 +324,5 @@
 - Implemented swipe interaction for recommendations.
 
 - Added trending movies API endpoint in Go backend.
+
+- Connected frontend with backend API for recommendations.
