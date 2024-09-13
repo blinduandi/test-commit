@@ -66,3 +66,5 @@
 - Tested and debugged swiping functionality on Android.
 
 - Updated UI for swiping interaction to improve user experience.
+
+- Added error handling for failed API requests in swipe feature.
