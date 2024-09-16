@@ -332,3 +332,5 @@
 - Updated UI for swiping interaction to improve user experience.
 
 - Added error handling for failed API requests in swipe feature.
+
+- Completed search functionality with API integration.
