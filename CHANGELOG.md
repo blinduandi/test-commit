@@ -204,3 +204,5 @@
 - Completed search functionality with API integration.
 
 - Added 'See more' button for search results.
+
+- Refined search results page to display movies by relevance.
