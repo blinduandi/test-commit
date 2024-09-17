@@ -202,3 +202,5 @@
 - Added error handling for failed API requests in swipe feature.
 
 - Completed search functionality with API integration.
+
+- Added 'See more' button for search results.
