@@ -208,3 +208,5 @@
 - Refined search results page to display movies by relevance.
 
 - Enhanced error handling for search functionality.
+
+- Implemented filtering of movies by genre.
