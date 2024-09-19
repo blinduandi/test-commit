@@ -78,3 +78,5 @@
 - Enhanced error handling for search functionality.
 
 - Implemented filtering of movies by genre.
+
+- Backend optimized to support multiple filters for recommendations.
