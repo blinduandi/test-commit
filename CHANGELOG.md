@@ -344,3 +344,5 @@
 - Implemented filtering of movies by genre.
 
 - Backend optimized to support multiple filters for recommendations.
+
+- Tested and debugged search and filtering on iOS and Android.
