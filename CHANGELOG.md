@@ -214,3 +214,5 @@
 - Backend optimized to support multiple filters for recommendations.
 
 - Tested and debugged search and filtering on iOS and Android.
+
+- Added genre and cast filtering options on the recommendation page.
