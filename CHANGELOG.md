@@ -218,3 +218,5 @@
 - Added genre and cast filtering options on the recommendation page.
 
 - Created recommendation algorithm using user interaction data.
+
+- Developed stacked display for movie posters on recommendation page.
