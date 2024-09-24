@@ -348,3 +348,5 @@
 - Tested and debugged search and filtering on iOS and Android.
 
 - Added genre and cast filtering options on the recommendation page.
+
+- Created recommendation algorithm using user interaction data.
