@@ -220,3 +220,5 @@
 - Created recommendation algorithm using user interaction data.
 
 - Developed stacked display for movie posters on recommendation page.
+
+- Implemented Tinder-like swipe feature on recommendation page.
