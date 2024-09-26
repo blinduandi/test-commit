@@ -222,3 +222,5 @@
 - Developed stacked display for movie posters on recommendation page.
 
 - Implemented Tinder-like swipe feature on recommendation page.
+
+- Fixed UI issues related to swipe animation on different screen sizes.
