@@ -228,3 +228,5 @@
 - Enhanced recommendation engine with collaborative filtering.
 
 - Improved backend response time for recommendations API.
+
+- Implemented Firebase authentication on sign-up page.
