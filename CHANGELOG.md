@@ -98,3 +98,5 @@
 - Improved backend response time for recommendations API.
 
 - Implemented Firebase authentication on sign-up page.
+
+- Added form validation for sign-up and login pages.
