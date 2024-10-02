@@ -232,3 +232,5 @@
 - Implemented Firebase authentication on sign-up page.
 
 - Added form validation for sign-up and login pages.
+
+- Refined login page UI for consistency with app theme.
