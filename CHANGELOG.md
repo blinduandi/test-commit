@@ -238,3 +238,5 @@
 - Connected Firebase authentication with main app navigation.
 
 - Added error handling for login and sign-up failures.
+
+- Tested and debugged Firebase integration on multiple devices.
