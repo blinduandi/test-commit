@@ -368,3 +368,5 @@
 - Refined login page UI for consistency with app theme.
 
 - Connected Firebase authentication with main app navigation.
+
+- Added error handling for login and sign-up failures.
