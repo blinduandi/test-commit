@@ -506,3 +506,5 @@
 - Tested and debugged Firebase integration on multiple devices.
 
 - Enhanced authentication with email verification.
+
+- Improved main page layout to showcase featured movies.
