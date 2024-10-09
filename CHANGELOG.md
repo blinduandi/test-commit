@@ -642,3 +642,5 @@
 - Improved main page layout to showcase featured movies.
 
 - Integrated trending movies API to dynamically display new releases.
+
+- Developed profile page to show user info and preferences.
