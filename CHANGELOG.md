@@ -116,3 +116,5 @@
 - Integrated trending movies API to dynamically display new releases.
 
 - Developed profile page to show user info and preferences.
+
+- Implemented edit functionality for user profile.
