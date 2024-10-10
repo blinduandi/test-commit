@@ -646,3 +646,5 @@
 - Developed profile page to show user info and preferences.
 
 - Implemented edit functionality for user profile.
+
+- Added loading indicator on main page for data fetching.
