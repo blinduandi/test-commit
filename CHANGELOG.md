@@ -384,3 +384,5 @@
 - Implemented edit functionality for user profile.
 
 - Added loading indicator on main page for data fetching.
+
+- Improved data caching to reduce API calls for trending movies.
