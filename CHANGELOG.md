@@ -386,3 +386,5 @@
 - Added loading indicator on main page for data fetching.
 
 - Improved data caching to reduce API calls for trending movies.
+
+- Tested layout adjustments across screen sizes.
