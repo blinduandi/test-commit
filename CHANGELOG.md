@@ -388,3 +388,5 @@
 - Improved data caching to reduce API calls for trending movies.
 
 - Tested layout adjustments across screen sizes.
+
+- Created 'List Movies' page with user-specific recommendations.
