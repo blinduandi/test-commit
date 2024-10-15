@@ -126,3 +126,5 @@
 - Tested layout adjustments across screen sizes.
 
 - Created 'List Movies' page with user-specific recommendations.
+
+- Implemented pagination for 'List Movies' page.
