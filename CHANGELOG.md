@@ -392,3 +392,5 @@
 - Created 'List Movies' page with user-specific recommendations.
 
 - Implemented pagination for 'List Movies' page.
+
+- Connected 'List Movies' page with backend to fetch user list data.
