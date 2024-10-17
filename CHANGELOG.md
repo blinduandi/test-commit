@@ -528,3 +528,5 @@
 - Connected 'List Movies' page with backend to fetch user list data.
 
 - Enhanced swipe interaction to update user preferences on swipe.
+
+- Added filtering options on 'List Movies' page for better sorting.
