@@ -394,3 +394,5 @@
 - Implemented pagination for 'List Movies' page.
 
 - Connected 'List Movies' page with backend to fetch user list data.
+
+- Enhanced swipe interaction to update user preferences on swipe.
