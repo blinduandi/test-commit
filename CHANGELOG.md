@@ -398,3 +398,5 @@
 - Enhanced swipe interaction to update user preferences on swipe.
 
 - Added filtering options on 'List Movies' page for better sorting.
+
+- Fixed styling issues on profile page and list movies page.
