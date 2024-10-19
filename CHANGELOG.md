@@ -268,3 +268,5 @@
 - Added filtering options on 'List Movies' page for better sorting.
 
 - Fixed styling issues on profile page and list movies page.
+
+- Improved loading times by optimizing API calls on 'List Movies' page.
