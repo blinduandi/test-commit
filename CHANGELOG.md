@@ -138,3 +138,5 @@
 - Fixed styling issues on profile page and list movies page.
 
 - Improved loading times by optimizing API calls on 'List Movies' page.
+
+- Enhanced search functionality to allow filtering by cast and director.
