@@ -272,3 +272,5 @@
 - Improved loading times by optimizing API calls on 'List Movies' page.
 
 - Enhanced search functionality to allow filtering by cast and director.
+
+- Refined movie details page to show additional info like budget and revenue.
