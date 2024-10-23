@@ -406,3 +406,5 @@
 - Enhanced search functionality to allow filtering by cast and director.
 
 - Refined movie details page to show additional info like budget and revenue.
+
+- Connected movie details page to backend to fetch dynamic data.
