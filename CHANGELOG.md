@@ -408,3 +408,5 @@
 - Refined movie details page to show additional info like budget and revenue.
 
 - Connected movie details page to backend to fetch dynamic data.
+
+- Tested performance improvements on movie details page.
