@@ -278,3 +278,5 @@
 - Connected movie details page to backend to fetch dynamic data.
 
 - Tested performance improvements on movie details page.
+
+- Enhanced loading indicators for smoother user experience.
