@@ -282,3 +282,5 @@
 - Enhanced loading indicators for smoother user experience.
 
 - Optimized database queries for faster movie detail retrieval.
+
+- Updated Firebase to allow password reset via email.
