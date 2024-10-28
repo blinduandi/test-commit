@@ -548,3 +548,5 @@
 - Optimized database queries for faster movie detail retrieval.
 
 - Updated Firebase to allow password reset via email.
+
+- Improved recommendation engine with additional genre weighting.
