@@ -418,3 +418,5 @@
 - Updated Firebase to allow password reset via email.
 
 - Improved recommendation engine with additional genre weighting.
+
+- Added dynamic movie poster display on recommendation page.
