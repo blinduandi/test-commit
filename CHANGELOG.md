@@ -288,3 +288,5 @@
 - Improved recommendation engine with additional genre weighting.
 
 - Added dynamic movie poster display on recommendation page.
+
+- Enhanced swipe effect for better interaction feedback.
