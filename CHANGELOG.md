@@ -424,3 +424,5 @@
 - Enhanced swipe effect for better interaction feedback.
 
 - Updated UI on recommendation page to show additional movie info.
+
+- Fixed profile settings page bugs for smoother navigation.
