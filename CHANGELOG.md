@@ -686,3 +686,5 @@
 - Added dynamic movie poster display on recommendation page.
 
 - Enhanced swipe effect for better interaction feedback.
+
+- Updated UI on recommendation page to show additional movie info.
