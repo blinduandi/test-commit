@@ -162,3 +162,5 @@
 - Updated UI on recommendation page to show additional movie info.
 
 - Fixed profile settings page bugs for smoother navigation.
+
+- Implemented in-app notifications for personalized recommendations.
