@@ -564,3 +564,5 @@
 - Tested new updates across iOS and Android devices.
 
 - Finalized UI improvements on all app pages.
+
+- Integrated analytics tracking
